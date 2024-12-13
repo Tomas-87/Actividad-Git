@@ -1,1 +1,2 @@
 Este es el archivo para practicar con Git y GitHub.
+Esta linea estara en la rama 2 2º commit.
